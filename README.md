@@ -6,7 +6,7 @@ I'm George Hua, an aspiring Data Scientist, Web Developer, and Entrepreneur.
 
 I have a background in social science and data science. I enjoy solving real-world challenges with data-driven analysis. 
 
-In my leisure time, I'm a big fan of science fiction stories. For me, exploring the imagined world is adventurous and always the source of creativity. My favorite sci-fi movie is *2001: A Space Odyssey*
+In my leisure time, I'm a big fan of science fiction stories. For me, exploring the imagined world is adventurous and always the source of creativity. My favorite sci-fi movie is *2001: A Space Odyssey* ("My God, it's full of stars."🌟🌟)
 
 
 
@@ -14,7 +14,7 @@ In my leisure time, I'm a big fan of science fiction stories. For me, exploring 
 
 I created a text-to-speech app that converts academic paper to MP3 audio, and used machine learning models to filter suitable texts for reading aloud.
 
-<img src="figures/paper2audio.svg" height="14px" style="display:inline;"> Academic Paper to Audio |  [Demo](http://paper2audio.netlify.app/) | [Repository](https://github.com/georgehua/paper2audio)
+<img src="figures/paper2audio.svg" height="13px" style="display:inline;"> Academic Paper to Audio |  [Demo](http://paper2audio.netlify.app/) | [Repository](https://github.com/georgehua/paper2audio)
 
 
 
@@ -26,5 +26,5 @@ I co-founded a research institute dedicated to traffic and transportation study.
 
 
 
-Also check out my GitHub repositories below, I built my portfolio around a variety of topics including supervised learning, topic modeling, sentiment analysis, data mining, time-series analysis, and machine translation.
+Also check out my GitHub repositories below, I built my portfolio around a variety of topics including supervised learning, topic modeling, sentiment analysis, data mining, time-series analysis, and neural machine translation.
 
