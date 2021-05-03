@@ -14,13 +14,13 @@ In my leisure time, I'm a big fan of science fiction stories. For me, exploring 
 
 I created a text-to-speech app that converts academic paper to MP3 audio, and used machine learning models to filter suitable texts for reading aloud.
 
-<img src="figures/paper2audio.svg" height="15px" style="display:inline"> Academic Paper to Audio |  [Demo](http://paper2audio.netlify.app/) | [Repository](https://github.com/georgehua/paper2audio)
+<img src="figures/paper2audio.svg" height="14px" style="display:inline;"> Academic Paper to Audio |  [Demo](http://paper2audio.netlify.app/) | [Repository](https://github.com/georgehua/paper2audio)
 
 
 
 I co-founded a research institute dedicated to traffic and transportation study. I worked in the role of web developer and research assistant.
 
-<img src="figures/tiria.svg" height="15px" style="display:inline;"> TIRIA Institute | [Official Website](tiria.org)
+<img src="figures/tiria.svg" height="14px" style="display:inline;"> TIRIA Institute | [Official Website](tiria.org)
 
 
 
