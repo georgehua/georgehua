@@ -4,7 +4,7 @@
 
 I'm George Hua, an aspiring Data Scientist, Web Developer, and Entrepreneur.
 
-I have a background in social science and data science. I enjoy solving real-world challenges with data-driven analysis. 
+I have a background in social science and data science. And I enjoy solving real-world challenges with data-driven approaches. 
 
 In my leisure time, I'm a big fan of science fiction stories. For me, exploring the imagined world is adventurous and always the source of creativity. My favorite sci-fi movie is *2001: A Space Odyssey* ("My God, it's full of stars."🌟🌟)
 
@@ -23,6 +23,8 @@ I co-founded a research institute dedicated to traffic and transportation study.
 <img src="figures/tiria.svg" height="14px" style="display:inline;"> TIRIA Institute | [Official Website](https://tiria.org)
 
 
+
+----
 
 
 
