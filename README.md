@@ -18,7 +18,7 @@ I created a text-to-speech app that converts academic paper to MP3 audio, and us
 
 
 
-I co-founded a research institute dedicated to traffic and transportation study. I worked in the role of web developer and research assistant.
+I co-founded a research institute dedicated to traffic and transportation study. I worked in the role of Software Developer and Data Analyst.
 
 <img src="figures/tiria.svg" height="14px" style="display:inline;"> TIRIA Institute | [Official Website](https://tiria.org)
 
