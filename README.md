@@ -12,13 +12,13 @@ In my leisure time, I'm a big fan of science fiction stories. For me, exploring 
 
 
 
-**Web Scraping & Data Collection Projects** | [Repository](https://github.com/georgehua/data-collection-projects)
+1. **Web Scraping & Data Collection Projects** | [Repository](https://github.com/georgehua/data-collection-projects)
 
 Collection of data collection projects with web scraping and API tools. Data Source: Twitter, LinkedIn; Tools: BeautifulSoup, Selenium, Python, API
 
 
 
-**Data Visualization** | [Repository](https://github.com/georgehua/data-visualizations)
+2. **Data Visualization** | [Repository](https://github.com/georgehua/data-visualizations)
 
 Collection of my data visualization projects. Tools used: Tableau, R ShinyApp, Javascript, Python
 
