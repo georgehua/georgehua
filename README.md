@@ -4,7 +4,7 @@
 
 I'm George Hua. Over the past 4 years, I had the entrepreneurial experience to bridge the needs of different people. I also worked as a software developer to produce high-quality programs and satisfy business needs. Eventually, I found my true passion in the data analytics role to solve real-world challenges with quantitative analysis. I focus on data analytics, machine learning, and natural language processing study, dedicating myself to bring more impacts to society and business.
 
-In my leisure time, I'm a big fan of science fiction stories. For me, exploring the imagined world is adventurous and always the source of creativity. My favorite sci-fi movie is *2001: A Space Odyssey* ("My God, it's full of stars."🌟🌟)
+In my leisure time, I'm a big fan of science fiction stories. For me, exploring the imagined world is adventurous and always the source of creativity. My favorite sci-fi movie is *2001: A Space Odyssey* ("It's full of stars."🌟🌟)
 
 <br>
 
