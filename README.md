@@ -6,7 +6,7 @@ I'm George Hua, a recent graduate from the University of Toronto, specializing i
 
 In my leisure time, I'm a big fan of science fiction stories. For me, exploring the imagined world is adventurous and always the source of creativity. My favorite sci-fi movie is *2001: A Space Odyssey* ("My God, it's full of stars."🌟🌟)
 
-
+<br>
 
 **Highlighted Works:**
 
@@ -24,7 +24,7 @@ Collection of my data visualization projects. Tools used: Tableau, R ShinyApp, J
 
 
 
-<img src="figures/paper2audio.svg" height="14px" style="display:inline;"> **Academic Paper to Audio** |  [Demo](http://paper2audio.netlify.app/) | [Repository](https://github.com/georgehua/paper2audio)
+<img src="figures/paper2audio.svg" height="14px" style="display:inline;"> **Academic Paper to Audio** |  [App URL](http://paper2audio.netlify.app/) | [Repository](https://github.com/georgehua/paper2audio)
 
 I created a text-to-speech app that converts academic paper to MP3 audio, and used machine learning models to filter suitable texts for reading aloud.
 
