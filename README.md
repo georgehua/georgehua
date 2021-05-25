@@ -16,7 +16,7 @@ In my leisure time, I'm a big fan of science fiction stories. For me, exploring 
 
 🔍Web Scraping & Data Collection Projects | [Repository](https://github.com/georgehua/data-collection-projects)
 
-- Collection of data collection projects with web scraping and API tools. Data Source: Twitter, LinkedIn; Tools: BeautifulSoup, Selenium, Python, API
+<p style="padding-left:3px; color: #6e7681;">Collection of data collection projects with web scraping and API tools. Data Source: Twitter, LinkedIn; Tools: BeautifulSoup, Selenium, Python, API</p>
 
 
 
